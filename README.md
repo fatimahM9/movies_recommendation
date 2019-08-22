@@ -17,17 +17,17 @@ In this project i wanted to find features affecting the ratings of any particula
 **Domain:** Entertainment
 
 **Analysis Tasks performed:**
-
-  1- User Age Distribution.
-  2- User rating of the movie “Toy Story”.
-  3- Top 10 movies by viewership rating.
-  4- Find the ratings for all the movies reviewed by a particular user.
+  
+    1- User Age Distribution.
+    2- User rating of the movie “Toy Story”.
+    3- Top 10 movies by viewership rating.
+    4- Find the ratings for all the movies reviewed by a particular user.
 
 ## 3. File Descriptions
 There is one notebook file that have all the work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.Also an HTML file for the notebook.
 
 ## 4. Results
-The main findings of the code can be found here.
+The main findings of the code can be found [here](https://fatimahm9.github.io/datascience/).
 
 ## 5. Licensing, Authors, Acknowledgements
 This project is made for a [udacity](udacity.com).Credit goes to [grouplens](grouplens.org) for the data.The data is found in [Kaggle](www.kaggle.com/grouplens/datasets).
