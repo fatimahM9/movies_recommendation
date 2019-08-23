@@ -27,7 +27,7 @@ In this project i wanted to find features affecting the ratings of any particula
 There is one notebook file that have all the work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.Also an HTML file for the notebook.
 
 ## 4. Results
-The main findings of the code can be found [here](https://fatimahm9.github.io/datascience/).
+The main findings of the code can be found [here](https://medium.com/@fatimah.alabbad9/movies-rating-analysis-recommendation-48e072db0d04).
 
 ## 5. Licensing, Authors, Acknowledgements
 This project is made for a [udacity](udacity.com).Credit goes to [grouplens](grouplens.org) for the data.The data is found in [Kaggle](www.kaggle.com/grouplens/datasets).
